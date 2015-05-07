@@ -1,5 +1,7 @@
 #TP Nº 4: Notaciones
 
+Breve presentación de las ventajas y desventajas de 3 sistemas de representación: Nassi-Shneiderman, Diagrama de Flujo, Pseudocódigo.
+
 ##Diagrama de Flujo
 ###Ventajas
 
