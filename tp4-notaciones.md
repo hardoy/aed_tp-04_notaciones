@@ -25,6 +25,7 @@
  - Ocupa poco espacio.
  - Se puede redactar en un archivo de texto.
  - Dada su similitud puede ser más fácil la conversión de pseudocódigo a un lenguaje formal y viceversa.
+
 ###Desventajas
  - Poca estandarización.
  - Lleva más tiempo entender los procesos que explica.
